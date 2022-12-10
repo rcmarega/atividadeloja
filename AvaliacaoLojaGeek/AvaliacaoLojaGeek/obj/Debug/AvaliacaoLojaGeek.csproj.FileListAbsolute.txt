@@ -1,0 +1,16 @@
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\bin\Debug\DbLojaGeek.mdf
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\bin\Debug\DbLojaGeek_log.ldf
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\bin\Debug\AvaliacaoLojaGeek.exe.config
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\bin\Debug\AvaliacaoLojaGeek.exe
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\bin\Debug\AvaliacaoLojaGeek.pdb
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\obj\Debug\AvaliacaoLojaGeek.FrmLogin.resources
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\obj\Debug\AvaliacaoLojaGeek.FrmPrincipal.resources
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\obj\Debug\AvaliacaoLojaGeek.FrmProduto.resources
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\obj\Debug\AvaliacaoLojaGeek.FrmSplash.resources
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\obj\Debug\AvaliacaoLojaGeek.Properties.Resources.resources
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\obj\Debug\AvaliacaoLojaGeek.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\obj\Debug\AvaliacaoLojaGeek.exe
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\obj\Debug\AvaliacaoLojaGeek.pdb
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\obj\Debug\AvaliacaoLojaGeek.FrmCliente.resources
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\obj\Debug\AvaliacaoLojaGeek.FrmVenda.resources
+C:\Users\Aluno\source\repos\AvaliacaoLojaGeek\AvaliacaoLojaGeek\obj\Debug\AvaliacaoLojaGeek.csprojAssemblyReference.cache
